@@ -1,0 +1,26 @@
+.search{
+    background-color: #1d93ca;
+}
+.box{
+    background-color: #1d93ca;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+a:link{
+    color:#000;
+}
+.basket{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 100px;
+}
+.sell{
+    background-color: #1d93ca;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+body{
+    background-color: #CA541D;
+}

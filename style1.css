@@ -1,0 +1,28 @@
+body{
+    background-color:#CA541D;
+}
+.box{
+    background-color: #1d93ca;
+    padding: 10px;
+    text-align: center;
+}
+.box1{
+    background-color: #1d93ca;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    gap: 300px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    box-sizing: border-box;
+
+
+}
+#buttonin{
+    width: 250px;
+}
+#button{
+    margin-top: 20px;
+    width: 250px;
+}

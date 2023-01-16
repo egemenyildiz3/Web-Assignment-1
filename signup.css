@@ -1,0 +1,12 @@
+body{
+    background-color:#CA541D;
+}
+.box1{
+    display: flex;
+    background-color: #1d93ca;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.box{
+    display: flex;
+}
